@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://hemgajjar.netlify.app/](https://hemgajjar.netlify.app/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
